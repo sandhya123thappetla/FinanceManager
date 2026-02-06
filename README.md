@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# FinanceManager
+Personal Finance Manager Python Project
+>>>>>>> d5cd0e9e80edbb94031f980565df013046f188c8
 # Personal Finance Manager
 
 This is a Python command-line application developed using Object-Oriented Programming.
